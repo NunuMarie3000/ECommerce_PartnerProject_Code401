@@ -10261,11 +10261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
+      "projectUniqueName": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
       "projectName": "ECommerce_RetroGaming",
-      "projectPath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
+      "projectPath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
       "packagesPath": "/Users/tylermorgan/.nuget/packages/",
-      "outputPath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/obj/",
+      "outputPath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tylermorgan/.nuget/NuGet/NuGet.Config"

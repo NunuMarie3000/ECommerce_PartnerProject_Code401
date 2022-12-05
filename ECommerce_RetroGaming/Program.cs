@@ -12,6 +12,8 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
 
 // hey this is a small miniscule change to test if github is tweaking or not...i wanna give up
 
+//////////////////////////Tyler's comment///////////////////////////////////////////////////
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

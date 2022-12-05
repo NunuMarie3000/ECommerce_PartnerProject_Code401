@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiGLAKQgO7TfXDNfvXGRoz37Nxj09QHN28+ws48i/PNcZ+8EGwocP5MO3949kuDuGSN023wjOm67/MvJhmrTnA==",
+  "dgSpecHash": "+1xkbs/5hNlN20hJroRAR54sE/uhdH4kpyROs6kCDwLDDjPlRCdWlL5kJkhKy+T4uLolQtGX1n7ldGlXpUs9xA==",
   "success": true,
-  "projectFilePath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
+  "projectFilePath": "/Users/tylermorgan/Projects/ECommerce_PartnerProject_Code401/ECommerce_PartnerProject_Code401/ECommerce_RetroGaming/ECommerce_RetroGaming.csproj",
   "expectedPackageFiles": [
     "/Users/tylermorgan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/tylermorgan/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
