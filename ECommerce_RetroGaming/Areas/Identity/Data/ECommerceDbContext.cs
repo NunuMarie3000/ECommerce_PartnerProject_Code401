@@ -1,5 +1,5 @@
-﻿using ECommerce_RetroGaming.Areas.Admin.Models;
-using ECommerce_RetroGaming.Areas.Identity.Data;
+﻿using ECommerce_RetroGaming.Areas.Identity.Data;
+using ECommerce_RetroGaming.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;

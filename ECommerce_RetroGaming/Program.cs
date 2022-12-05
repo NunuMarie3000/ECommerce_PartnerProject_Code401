@@ -8,7 +8,7 @@ var connectionString = builder.Configuration.GetConnectionString("ECommerceDbCon
 builder.Services.AddDbContext<ECommerceDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ECommerceDbContext>();
 
 // hey this is a small miniscule change to test if github is tweaking or not...i wanna give up
@@ -35,6 +35,8 @@ app.UseRouting();
 app.UseAuthentication();;
 
 app.UseAuthorization();
+
+app.MapRazorPages();
 
 app.MapControllerRoute(
     name: "default",

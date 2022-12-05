@@ -275,3 +275,13 @@ C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_R
 C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\obj\Debug\net6.0\ECommerce_RetroGaming.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vmari\source\repos\Code401\ECommerce_PartnerProject_Code401\ECommerce_RetroGaming\obj\Debug\net6.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
