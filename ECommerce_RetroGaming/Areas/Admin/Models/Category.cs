@@ -9,4 +9,3 @@
     public string? ImagePath { get; set; }
   }
 }
-}
