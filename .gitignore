@@ -303,3 +303,9 @@ __pycache__/
 .venv
 #python-poetry lock file
 poetry.lock
+ECommerce_RetroGaming/obj/Debug/net6.0/ECommerce_RetroGaming.GeneratedMSBuildEditorConfig.editorconfig
+ECommerce_RetroGaming/obj/Debug/net6.0/ECommerce_RetroGaming.assets.cache
+ECommerce_RetroGaming/obj/Debug/net6.0/ECommerce_RetroGaming.GeneratedMSBuildEditorConfig.editorconfig
+ECommerce_RetroGaming/obj/ECommerce_RetroGaming.csproj.nuget.dgspec.json
+ECommerce_RetroGaming/obj/project.assets.json
+ECommerce_RetroGaming/obj/project.nuget.cache
